@@ -41,8 +41,8 @@ An IoT-based project that uses ESP32 to control multiple LEDs through a web inte
 * Smart home integration
 
 ## Output Screenshot
-
-(Add screenshots here)
+<img width="845" height="173" alt="Screenshot 2026-06-07 133444" src="https://github.com/user-attachments/assets/6de04959-d0b9-4b1b-908c-edfd6efe5624" />
+<img width="365" height="636" alt="Screenshot 2026-06-07 133457" src="https://github.com/user-attachments/assets/ad6274b5-7fa0-47f3-b0ae-f9f64bf25f80" />
 
 ## Author
 
